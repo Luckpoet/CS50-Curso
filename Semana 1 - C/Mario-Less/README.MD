@@ -1,0 +1,2 @@
+This exercise implements, in C, a simple version of the pyramid from the game Super Mario Bros, proposed in Week 1 of Harvard’s CS50 course.
+The program asks the user for a height between 1 and 8 and, after validating the input, prints a pyramid using hash (#) characters.
