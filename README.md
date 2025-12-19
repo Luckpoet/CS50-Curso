@@ -1,2 +1,2 @@
 # CS50-Curso
-Exercícios do curso CS50 de Harvard. 📕🖥️
+Exercises from the Harvard CS50 course. 📕🖥️
