@@ -1,2 +1,2 @@
-This exercise implements, in C, a simple version of the pyramid from the game Super Mario Bros, proposed in Week 1 of Harvard’s CS50 course.
-The program asks the user for a height between 1 and 8 and, after validating the input, prints a pyramid using hash (#) characters.
+Este exercício implementa, usando a linguagem C, uma versão simples da pirâmide do jogo Super Mario Bros, proposta na semana 1 do curso CS50 de Harvard. 
+O programa pede para o usuário digitar uma altura entre 1 e 8, após validar o input, ele imprime na tela uma pirÂmide utilizando o caractere hash (#).
