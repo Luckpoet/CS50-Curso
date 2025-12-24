@@ -1,0 +1,1 @@
+Proposto na semana 1 do curso CS50 de Harvard, esse simples código pede seu nome e responde dizendo "Hello, nome".
