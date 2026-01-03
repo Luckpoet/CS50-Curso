@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Foi mais rápido lidando com um arquivo que já esta ordenado.
+
+sort2 uses: Merge Sort
+
+How do you know?: Foi o mais rápido a ordenar números aleatórios.
+
+sort3 uses: Selection Sort
+
+How do you know?: Foi o mais lento a lidar com os dois problemas. (Ou simplesmente foi o que sobrou '-').

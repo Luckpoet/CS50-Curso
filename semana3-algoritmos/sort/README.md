@@ -1,0 +1,2 @@
+## 🔢 Sort
+Proposto na semana 3 do curso CS50 de Harvard, esse exercício tem como objetivo identificar quais algoritmos de ordenação estão sendo utilizados em três programas diferentes (`sort1`, `sort2` e `sort3`), baseando-se em seu desempenho para ordenar arquivos.
